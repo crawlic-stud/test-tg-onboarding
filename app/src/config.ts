@@ -30,7 +30,7 @@ export default defineConfig({
               type: 'checkbox',
             },
           ],
-          button: {content: "Done", to: "https://google.com", href: "https://google.com"},
+          button: {content: "Done", href: "https://google.com"},
         },
       ]
     }
